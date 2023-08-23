@@ -22,6 +22,8 @@
 
 Thank you so much for your interest in contributing!. All types of contributions are encouraged and valued. See the [table of contents](#toc) for different ways to help and details about how this project handles them!📝
 
+> 🛑 **Before starting all contributors must review our [Code of Conduct](https://github.com/scarf-sh/code-of-conduct/blob/main/CODE_OF_CONDUCT_EN.md)** 🛑
+
 Please make sure to read the relevant section before making your contribution! It will make it a lot easier for us maintainers to make the most of it and smooth out the experience for all involved. 💙
 
 The [Project Team](#join-the-project-team) looks forward to your contributions. 🙌🏾✨
@@ -44,7 +46,7 @@ Once it's filed:
 
 If you run into an error or bug with the project:
 
-* Open an Issue at https://github.com/wealljs/weallcontribute/issues
+* Open an Issue at `https://github.com/scarf-sh/{project-name}/issues`
 * Include *reproduction steps* that someone else can follow to recreate the bug or error on their own.
 * Provide project and platform versions (nodejs, npm, etc), depending on what seems relevant. If not, please be ready to provide that information if maintainers ask for it.
 
@@ -196,6 +198,8 @@ Some notes:
 All tests must pass, and tags must use [semver](https://semver.org).
 
 ## Join the Project Team
+
+> 🛑 **Before starting all contributors must review our [Code of Conduct](https://github.com/scarf-sh/code-of-conduct/blob/main/CODE_OF_CONDUCT_EN.md)** 🛑
 
 ### Ways to Join
 
